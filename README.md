@@ -1,2 +1,8 @@
-# SharpnerTaskJs1
-ExpenseTracker
+
+# ExpenseTracker
+
+Used Technologies: 
+HTML
+BootStrap
+JavaScript
+Local Storage
