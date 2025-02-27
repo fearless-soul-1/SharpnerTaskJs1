@@ -1,11 +1,12 @@
 
 # ExpenseTracker
 
-Used Technologies: 
-HTML
+# Used Technologies :
 
-BootStrap
+* HTML
 
-JavaScript
+* BootStrap
 
-Local Storage
+* JavaScript
+
+* Local Storage
